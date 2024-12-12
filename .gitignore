@@ -1,0 +1,14 @@
+# 忽略文件规则
+
+# 忽略*.txt
+*.txt
+
+# 忽略/ignorefile/文件夹
+/ignorefile/ignore/
+
+# 忽略/ignorefile/force/123.rtf
+/ignorefile/force/123.rtf
+
+
+# 取消过滤 123.txt
+!123.txt
