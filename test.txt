@@ -5,15 +5,7 @@
 
 删除副本，记录了
 
-
-
 12-12 created new branch dev_user
 12-12 created file user.txt
 
-
-
-modify file user.txt append user 0002
-
-这是通过ssh传输的
-
-我将线上加的话删除了一行，另一行加了括号。
+16.43分如果关掉git，看是否能检测文件改动。
